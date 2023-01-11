@@ -1,0 +1,25 @@
+name: github-component
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/342fc842-a96b-4b2c-89b6-3c92e0a93ac7'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/github-integration-test/effective-succotash'
+  - name: null
+    type: OTHER_LINK
+    url: 'https://vbihun.jira-dev.com/compass/component/47251e64-53e0-45a7-8e37-42d8533b25bf'
+  - name: null
+    type: PROJECT
+    url: 'https://vbihun.jira-dev.com/compass/component/47251e64-53e0-45a7-8e37-42d8533b25bf'
+  - name: koko
+    type: PROJECT
+    url: 'https://softwareteams.atlassian.net/browse/COMPASS-11513?atlOrigin=eyJpIjoiMTVhYjcyYzA4NGY5NDY4NDg1Nzg2OTVkZjU0MjUxZTgiLCJwIjoiaiJ9'
+relationships:
+  DEPENDS_ON:
+    - 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/1501f630-dc15-4fb2-8c4d-fde49a866591'
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
