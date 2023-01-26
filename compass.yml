@@ -1,0 +1,17 @@
+name: effective-koko-momo
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/962fd5de-9c99-4c3e-b5b8-254e7aecb44b'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/github-integration-test/effective-succotash'
+  - name: ''
+    type: CHAT_CHANNEL
+    url: 'https://softwareteams.atlassian.net/browse/COMPASS-11513'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
