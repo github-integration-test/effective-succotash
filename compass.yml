@@ -1,0 +1,11 @@
+name: effective-succotash
+id: ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/7f2d4aa5-9f30-44e6-aab8-471925255d0e
+description: null
+fields:
+  tier: 4
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/github-integration-test/effective-succotash
+relationships:
+  DEPENDS_ON: []
