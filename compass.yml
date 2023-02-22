@@ -5,7 +5,7 @@ ownerId: null
 configVersion: 1
 fields:
   tier: 4
-  lifecycle: 'koko'
+  lifecycle: 'active'
 links:
   - name: null
     type: REPOSITORY
