@@ -19,6 +19,9 @@ customFields:
   - name: 'has manager'
     type: boolean
     value: true
+  - name: 'has manager'
+    type: boolean
+    value: true
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
