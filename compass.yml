@@ -14,13 +14,13 @@ links:
 relationships: {}
 customFields: 
   - name: 'team nickname'
-    type: TEXT
+    type: text
     value: someValue
   - name: 'has manager'
-    type: BOOLEAN
+    type: boolean
     value: true
   - name: 'developer count'
-    type: NUMBER
+    type: number
     value: 2
 
 # Learn more about formatting compass.yml:
