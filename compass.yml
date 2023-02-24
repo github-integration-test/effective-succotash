@@ -16,6 +16,9 @@ customFields:
   - name: 'team nickname'
     type: text
     value: someValueqqy
+  - name: 'has nickname'
+    type: boolean
+    value: true
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
