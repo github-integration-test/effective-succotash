@@ -11,6 +11,16 @@ links:
     type: REPOSITORY
     url: 'https://github.com/github-integration-test/effective-succotash'
 relationships: {}
+customFields: 
+  - name: 'team nickname'
+    type: TEXT
+    value: someValue
+  - name: 'has manager'
+    type: BOOLEAN
+    value: true
+  - name: 'developer count'
+    type: NUMBER
+    value: 2
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
