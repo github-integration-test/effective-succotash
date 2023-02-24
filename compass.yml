@@ -15,7 +15,7 @@ relationships: {}
 customFields: 
   - name: 'team nickname'
     type: text
-    value: someValueqqyq
+    value: someValueqqyqq
   - name: 'has nickname'
     type: boolean
     value: true
