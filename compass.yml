@@ -15,7 +15,7 @@ relationships: {}
 customFields: 
   - name: 'team nickname'
     type: text
-    value: someValueqqqqqq
+    value: someValueqqqqqqq
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
