@@ -12,7 +12,10 @@ links:
     type: REPOSITORY
     url: 'https://github.com/github-integration-test/effective-succotash'
 relationships: {}
-customFields: 
+customFields:
+  - name: 'Total users'
+    type: number
+    value: 5
   - name: 'team nickname'
     type: text
     value: someValueqqyqq
