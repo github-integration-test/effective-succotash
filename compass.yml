@@ -15,7 +15,7 @@ relationships: {}
 customFields:
   - name: 'Total users'
     type: number
-    value: 5
+    value: 6
   - name: 'team nickname'
     type: text
     value: someValueqqyqq
