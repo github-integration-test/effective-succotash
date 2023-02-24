@@ -3,6 +3,7 @@ id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4
 description: null
 ownerId: null
 configVersion: '1'
+typeId: 'OTHER'
 fields:
   tier: 4
   lifecycle: 'active'
@@ -11,16 +12,6 @@ links:
     type: REPOSITORY
     url: 'https://github.com/github-integration-test/effective-succotash'
 relationships: {}
-customFields: 
-  - name: 'team nickname'
-    type: text
-    value: someValue
-  - name: 'has manager'
-    type: boolean
-    value: true
-  - name: 'developer count'
-    type: number
-    value: 2
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
