@@ -1,0 +1,15 @@
+name: effective-succotash
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/d5f7d146-1e11-436f-a403-16d9481733e5'
+description: null
+configVersion: 1
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/github-integration-test/effective-succotash'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
