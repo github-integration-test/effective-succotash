@@ -5,8 +5,7 @@ configVersion: 1
 ownerId: null
 typeId: LIBRARY
 fields:
-  tier: 4
-  lifecycle: Deprecated
+  lifecycle: ACTIVE
 links:
   - name: null
     type: REPOSITORY
