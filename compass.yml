@@ -6,7 +6,7 @@ ownerId: null
 typeId: service
 fields:
   tier: 2
-  lifecycle: Deprecated
+  lifecycle: Active
 links:
   - name: null
     type: REPOSITORY
