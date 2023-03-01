@@ -4,9 +4,7 @@ description: null
 configVersion: 1
 ownerId: null
 typeId: Library
-fields:
-  tier: 1
-  lifecycle: Deprecated
+fields: {}
 links:
   - name: null
     type: REPOSITORY
