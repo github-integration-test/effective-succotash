@@ -6,7 +6,7 @@ ownerId: null
 typeId: capability
 fields:
   tier: 4
-  lifecycle: Active
+  lifecycle: deprecated
 links:
   - name: null
     type: REPOSITORY
