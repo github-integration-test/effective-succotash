@@ -5,7 +5,7 @@ configVersion: 1
 ownerId: null
 typeId: library
 fields:
-  tier: 3
+  tier: 4
   lifecycle: Active
 links:
   - name: null
