@@ -3,7 +3,7 @@ id: 'ari:cloud:compass:0c387849-09ee-4955-89d3-d4ad0b8e0204:component/77f8811c-b
 description: kok
 configVersion: 1
 ownerId: null
-typeId: service
+typeId: other
 fields:
   tier: 2
   lifecycle: Active
