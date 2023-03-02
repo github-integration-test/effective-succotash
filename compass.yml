@@ -5,7 +5,6 @@ configVersion: 1
 ownerId: null
 typeId: other
 fields:
-  tier: 2
   lifecycle: ACTIVE
 links:
   - name: null
