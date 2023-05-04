@@ -1,0 +1,22 @@
+name: effective-succotash
+description: description
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 2
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/github-integration-test/effective-succotash'
+relationships: {}
+labels:
+  - 'language:javascript'
+  - 'source:github'
+customFields:
+  - name: toto
+    type: text
+    value: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
